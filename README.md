@@ -10,7 +10,7 @@ A command line interface (CLI) is an alternative way than what you're probably u
 
 A CLI is used by typing a series of commands for your machine to execute. You can use a CLI without a mouse. By contrast a GUI is visiually driven with things like icons and menus that you can click on. A CLI typically has a steeper learning curve than a GUI, which is built to be very user friendly.
 
-Developers us lot of things, but mostly running their projects or project unit tests
+Developers use CLIs for a lot of things, but mostly for things like running their code and unit tests or pushing their code to a remote repository.
 
 ## First Commands to Learn
 
