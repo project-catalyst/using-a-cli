@@ -2,13 +2,13 @@
 
 Note: This document is a work in progress. If you find yourself here and have suggestions for how to improve it or questions contact me on twitter [@dwesty17](https://twitter.com/dwesty17) or by email at j.dylan.westerhold@gmail.com. I'll do my best to get back to you.
 
-Reading Time: **10-15 minutes** (required)
+Reading Time: **8-12 minutes** (required)
 
 ## Lessons
 1. **Using a Command Line Interface**
-1. [Installing Homebrew](https://github.com/project-catalyst/overview) (? minutes)
-1. [Running a JavaScript Program](https://github.com/project-catalyst/overview) (? minutes)
-1. [Using Git and GitHub](https://github.com/project-catalyst/overview) (? minutes)
+1. [Installing Homebrew](https://github.com/project-catalyst/installing-homebrew) (5-10 minutes)
+1. [Running a JavaScript Program](https://github.com/project-catalyst/running-a-javascript-program) (? minutes)
+1. [Using Git and GitHub](https://github.com/project-catalyst/using-git-and-github) (? minutes)
 1. [Intro to JavaScript](https://github.com/project-catalyst/overview) (? minutes)
 1. [JavaScript Lesson 1: Variables and Data Types](https://github.com/project-catalyst/overview) (? minutes)
 1. [JavaScript Lesson 2: Functions](https://github.com/project-catalyst/overview) (? minutes)
@@ -65,7 +65,7 @@ _change directory_: changes to the directory specificed by the relative path lis
 /Users/dylanwesterhold/developer/project-catalyst
 ```
 
-```shells
+```shell
 > cd using-a-cli/
 > pwd
 /Users/dylanwesterhold/developer/project-catalyst/using-a-cli
@@ -73,15 +73,15 @@ _change directory_: changes to the directory specificed by the relative path lis
 
 ### brew
 
-See Installing Homebrew
+[Installing Homebrew](https://github.com/project-catalyst/installing-homebrew)
 
 ### node
 
-See Running a Javascript Program
+See [Running a Javascript Program](https://github.com/project-catalyst/running-a-javascript-program)
 
 ### git
 
-See Using Git and Github
+See [Using Git and Github](https://github.com/project-catalyst/using-git-and-github)
 
 ## Tips (optional)
 
@@ -98,10 +98,14 @@ The actual application you open on your computer.
 * Terminal: Default terminal application that comes preinstalled on Macs 
 * [iTerm2](https://www.iterm2.com/): Alternative terminal application that can be intstalled with some more advanced features
 
-### Shell
+### Shells
 
 The interpreter that parses and processes your commands.
 
 * [bash](https://www.gnu.org/software/bash/)
 * [fish](https://fishshell.com/)
 * [zsh](http://ohmyz.sh/)
+
+### Next Lesson
+
+[Installing Homebrew](https://github.com/project-catalyst/installing-homebrew)
