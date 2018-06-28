@@ -2,12 +2,12 @@
 
 Note: This document is a work in progress. If you find yourself here and have suggestions for how to improve it or questions contact me on twitter [@dwesty17](https://twitter.com/dwesty17) or by email at j.dylan.westerhold@gmail.com. I'll do my best to get back to you.
 
-Reading Time: **8-12 minutes** (required)
+Reading Time: **? minutes**
 
 ## Lessons
 1. **Using a Command Line Interface**
-1. [Installing Homebrew](https://github.com/project-catalyst/installing-homebrew) (5-10 minutes)
-1. [Running a JavaScript Program](https://github.com/project-catalyst/running-a-javascript-program) (? minutes)
+1. [Installing Homebrew](https://github.com/project-catalyst/installing-homebrew) (? minutes)
+1. [Running JavaScript Programs](https://github.com/project-catalyst/running-js-programs) (? minutes)
 1. [Using Git and GitHub](https://github.com/project-catalyst/using-git-and-github) (? minutes)
 1. [Intro to JavaScript](https://github.com/project-catalyst/overview) (? minutes)
 1. [JavaScript Lesson 1: Variables and Data Types](https://github.com/project-catalyst/overview) (? minutes)
@@ -106,6 +106,6 @@ The interpreter that parses and processes your commands.
 * [fish](https://fishshell.com/)
 * [zsh](http://ohmyz.sh/)
 
-### Next Lesson
+## Next Lesson
 
 [Installing Homebrew](https://github.com/project-catalyst/installing-homebrew)
