@@ -7,7 +7,7 @@ Reading Time: **? minutes**
 ## Lessons
 1. **Using a Command Line Interface**
 1. [Installing Homebrew](https://github.com/project-catalyst/installing-homebrew) (? minutes)
-1. [Running JavaScript Programs](https://github.com/project-catalyst/running-js-programs) (? minutes)
+1. [Running JavaScript Programs](https://github.com/project-catalyst/running-a-javascript-program) (? minutes)
 1. [Using Git and GitHub](https://github.com/project-catalyst/using-git-and-github) (? minutes)
 1. [Intro to JavaScript](https://github.com/project-catalyst/overview) (? minutes)
 1. [JavaScript Lesson 1: Variables and Data Types](https://github.com/project-catalyst/overview) (? minutes)
